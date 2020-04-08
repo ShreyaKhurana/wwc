@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+*.pptx
+model/
+tf*/
+tokenizers/
+transformers/
+*.tsv
+__pycache__/
+venv/
